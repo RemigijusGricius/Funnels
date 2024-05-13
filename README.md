@@ -24,5 +24,5 @@ The second notable drop occurs between scrolling and viewing specific items, ind
 3. Encouragingly, there's a minimal drop after customers add payment information and proceed to the purchase phase. This indicates that once customers decide to buy a product and provide payment details, they tend to complete the transaction.
 
 ## Additional Research and Results
-1. After additional analyse to see if there are any differences between desktop and mobile funnels we can see that both categories have similar drop of rate after same customer steps.  So it means that device do not make any impact for customers.
+1. After additional analyse to see if there are any differences between desktop and mobile funnels we can see they are similar but when we look at the drop of percantage after all event in mobile there a 1.77 % from start qty. That means that people buys more with their phones.
 
